@@ -43,7 +43,7 @@
 
 <div align="center">
 
-| [![imane's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imane-haffout&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/imane-haffout?tab=repositories) | [![imane's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imane-haffout&layout=compact&hide_border=true&theme=jolly)](https://github.com/imane-haffout?tab=repositories) |
+| [![imane's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haffout-imane&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/haffout-imane?tab=repositories) | [![imane's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=haffout-imane&layout=compact&hide_border=true&theme=jolly)](https://github.com/haffout-imane?tab=repositories) |
 |:-:|:-:|
 
 </div>
