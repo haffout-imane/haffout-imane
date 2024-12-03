@@ -35,7 +35,7 @@
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,linux,typescript,github,git,vscode,notion" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,typescript,github,git,vscode,notion" />
 </div>
 
 <br/><hr/>
