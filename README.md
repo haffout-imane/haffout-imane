@@ -29,7 +29,9 @@
 <hr/>
 <br/>
 
-<h3 align="left" style="color: #6f42c1;">✦ Tech Stack ✦</h3>
+<h3 align="left" style="color: #6f42c1;"> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" alt="Robot" width="25" height="25" />
+Tech Stack : </h3>
 
 > These are the programming languages and markup technologies I use to create innovative solutions, complemented by robust tools, management systems, and design platforms that streamline my development workflow.
 <table align="center">
@@ -69,19 +71,25 @@
   </tbody>
 </table>
 
+<hr/>
+<div align="left">
+<br />
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
+Github Stats : </h3>
+  
+> These cards showcase an in-depth summary of my GitHub activity, highlighting total stars, pull requests, commits, and other essential metrics, providing a clear picture of my open-source contributions and impact.
 
 <div align="center">
-<hr/>
-<br/>
-<h3>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
-Github Stats
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
-</h3>
+  <a href="https://github.com/haffout-imane?tab=repositories">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haffout-imane&count_private=true&show_icons=true&hide=issues&theme=algolia" alt="Imane's GitHub stats" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/haffout-imane?tab=repositories">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=haffout-imane&layout=compact&theme=algolia" alt="Imane's Most Used Languages" />
+  </a>
+</div>
 
 
-| [![imane's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haffout-imane&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/haffout-imane?tab=repositories) | [![imane's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=haffout-imane&layout=compact&hide_border=true&theme=jolly)](https://github.com/haffout-imane?tab=repositories) |
-|:-:|:-:|
 
 <br/>
 </div>
