@@ -50,7 +50,6 @@ Tech Stack : </h3>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=c" width="40" title="C"/>  
         <img src="https://skillicons.dev/icons?i=cpp" width="40" title="C++"/>  
-        <img src="https://skillicons.dev/icons?i=typescript" width="40" title="TypeScript"/>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=html" width="40" title="HTML"/>  
