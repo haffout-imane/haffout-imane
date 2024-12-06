@@ -14,7 +14,7 @@
 </div>
 
 <br />
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh1anh0cWd6bHlyMzd1N3IwYmNnZmE4c29uY3k5YjlsdTY1NDZjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="250" />
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh1anh0cWd6bHlyMzd1N3IwYmNnZmE4c29uY3k5YjlsdTY1NDZjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="200" />
 
 <ul>
   <li>🎓 I’m a software engineering student at <a href="https://1337.ma/en" target="_blank"><b>1337</b></a>.</li>
@@ -25,15 +25,13 @@
 
 <br/>
 
-  <blockquote>
-  "The beautiful thing about learning is that nobody can take it away from you." – B.B. King
-  </li>
 </ul>
 <hr/>
 <br/>
 
-<h3 align="center" style="color: #6f42c1;">✦ Tech Stack ✦</h3>
+<h3 align="left" style="color: #6f42c1;">✦ Tech Stack ✦</h3>
 
+> These are the programming languages and markup technologies I use to create innovative solutions, complemented by robust tools, management systems, and design platforms that streamline my development workflow.
 <table align="center">
   <thead>
     <tr>
