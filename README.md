@@ -17,16 +17,11 @@
 <br />
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh1anh0cWd6bHlyMzd1N3IwYmNnZmE4c29uY3k5YjlsdTY1NDZjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="200" />
 
-<ul>
-  <li>🎓 I’m a software engineering student at <a href="https://1337.ma/en" target="_blank"><b>1337</b></a>.</li>
-  <li>💻 I’m currently working on <a href="https://www.42network.org" target="_blank"><b>42</a>'s Projects</b>.</li>
-  <li>🌱 I’m currently learning <b>HTML, CSS, JavaScript</b>.</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="20" height="20" /> I occasionally write about technology and coding on my <a href="https://medium.com/@username" target="_blank"><b>blog</b></a>.</li>
-  <li>🎯 My career goals include becoming a <b>full-stack developer</b> and contributing to <b>open source projects</b>.</li>
+<h3 align="left" style="color: #6f42c1;"> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="20" height="20" /> About me:  </h3>
 
-<br/>
+> I am a 21-year-old software engineering student at 1337, dedicated to mastering the art of coding and its transformative potential. Currently immersed in learning HTML, CSS, and JavaScript, I am passionate about exploring innovative solutions to real-world challenges. Through writing and sharing my knowledge on technology and programming, I aim to inspire others while advancing toward my goal of becoming a skilled full-stack developer and contributing to impactful open-source projects.
 
-</ul>
 <hr/>
 <br/>
 
