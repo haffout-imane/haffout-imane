@@ -15,7 +15,7 @@
 </div>
 
 <br />
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh1anh0cWd6bHlyMzd1N3IwYmNnZmE4c29uY3k5YjlsdTY1NDZjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO" width="250" />
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh1anh0cWd6bHlyMzd1N3IwYmNnZmE4c29uY3k5YjlsdTY1NDZjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="200" />
 
 <h3 align="left" style="color: #6f42c1;"> 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="20" height="20" /> About me:  </h3>
