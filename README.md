@@ -19,7 +19,7 @@
 <h3 align="left" style="color: #6f42c1;"> 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="20" height="20" /> About me:  </h3>
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh1anh0cWd6bHlyMzd1N3IwYmNnZmE4c29uY3k5YjlsdTY1NDZjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="139" />
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh1anh0cWd6bHlyMzd1N3IwYmNnZmE4c29uY3k5YjlsdTY1NDZjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="134" />
 
 > I am a 21-year-old software engineering student at 1337, dedicated to mastering the art of coding and its transformative potential. Currently immersed in learning HTML, CSS, and JavaScript, I am passionate about exploring innovative solutions to real-world challenges. Through writing and sharing my knowledge on technology and programming, I aim to inspire others while advancing toward my goal of becoming a skilled full-stack developer and contributing to impactful open-source projects.
 <hr/>
