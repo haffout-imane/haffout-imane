@@ -76,7 +76,7 @@ Github Stats : </h3>
 
 <div align="center">
   <a href="https://github.com/haffout-imane?tab=repositories">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haffout-imane&count_private=true&show_icons=true&hide=issues&theme=algolia" alt="Imane's GitHub stats" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=-imane&count_private=true&show_icons=true&hide=issues&theme=algolia" alt="Imane's GitHub stats" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/haffout-imane?tab=repositories">
