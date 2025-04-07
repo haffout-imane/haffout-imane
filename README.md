@@ -36,7 +36,8 @@ Tech Stack : </h3>
       <th style="text-align: center;">Languages</th>
       <th style="text-align: center;">Markup</th>
       <th style="text-align: center;">Tools</th>
-      <th style="text-align: center;">Management</th>
+      <th style="text-align: center;">Web Servers</th>
+      <th style="text-align: center;">Databases</th>
       <th style="text-align: center;">Design</th>
     </tr>
   </thead>
@@ -57,7 +58,10 @@ Tech Stack : </h3>
         <img src="https://skillicons.dev/icons?i=docker" width="40" title="Docker"/>  
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=notion" width="40" title="Notion"/>
+        <img src="https://skillicons.dev/icons?i=nginx" width="40" title="nginx"/>
+      </td>
+       <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" width="40" title="mysql"/>  
       </td>
        <td align="center">
         <img src="https://skillicons.dev/icons?i=figma" width="40" title="Figma"/>  
