@@ -47,6 +47,7 @@ Tech Stack : </h3>
         <img src="https://skillicons.dev/icons?i=c" width="40" title="C"/>  
         <img src="https://skillicons.dev/icons?i=cpp" width="40" title="C++"/>  
         <img src="https://skillicons.dev/icons?i=js" width="40" title="JS"/>  
+        <img src="https://skillicons.dev/icons?i=ts" width="40" title="TS"/>  
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=html" width="40" title="HTML"/>  
