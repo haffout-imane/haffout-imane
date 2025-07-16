@@ -35,6 +35,7 @@ Tech Stack : </h3>
     <tr>
       <th style="text-align: center;">Languages</th>
       <th style="text-align: center;">Markup</th>
+      <th style="text-align: center;">Frameworks</th>
       <th style="text-align: center;">Tools</th>
       <th style="text-align: center;">Web Servers</th>
       <th style="text-align: center;">Databases</th>
@@ -48,10 +49,16 @@ Tech Stack : </h3>
         <img src="https://skillicons.dev/icons?i=cpp" width="40" title="C++"/>  
         <img src="https://skillicons.dev/icons?i=js" width="40" title="JS"/>  
         <img src="https://skillicons.dev/icons?i=ts" width="40" title="TS"/>  
+        <img src="https://skillicons.dev/icons?i=dart" width="40" title="Dart"/>  
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=html" width="40" title="HTML"/>  
         <img src="https://skillicons.dev/icons?i=css" width="40" title="CSS"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" width="40" title="React"/>  
+        <img src="https://skillicons.dev/icons?i=flutter" width="40" title="Flutter"/>  
+        <img src="https://skillicons.dev/icons?i=express" width="40" title="Express"/>  
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=linux" width="40" title="Linux"/>  
