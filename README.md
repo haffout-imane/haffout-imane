@@ -57,6 +57,7 @@ Tech Stack : </h3>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=react" width="40" title="React"/>  
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" title="Bootstrap"/> 
         <img src="https://skillicons.dev/icons?i=flutter" width="40" title="Flutter"/>  
         <img src="https://skillicons.dev/icons?i=express" width="40" title="Express"/>  
       </td>
