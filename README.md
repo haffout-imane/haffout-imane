@@ -57,6 +57,7 @@ Tech Stack : </h3>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=react" width="40" title="React"/>  
+        <img src="https://skillicons.dev/icons?i=redux" width="40" title="Redux"/> 
         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" title="Bootstrap"/> 
         <img src="https://skillicons.dev/icons?i=jquery" width="40" title="jQuery"/> 
         <img src="https://skillicons.dev/icons?i=sass" width="40" title="Sass"/> 
