@@ -60,7 +60,6 @@ Tech Stack : </h3>
         <img src="https://skillicons.dev/icons?i=redux" width="40" title="Redux"/> 
         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" title="Bootstrap"/> 
         <img src="https://skillicons.dev/icons?i=jquery" width="40" title="jQuery"/> 
-        <img src="https://skillicons.dev/icons?i=sass" width="40" title="Sass"/> 
         <img src="https://skillicons.dev/icons?i=flutter" width="40" title="Flutter"/>  
         <img src="https://skillicons.dev/icons?i=express" width="40" title="Express"/>  
       </td>
@@ -74,6 +73,8 @@ Tech Stack : </h3>
       </td>
        <td align="center">
         <img src="https://skillicons.dev/icons?i=mysql" width="40" title="mysql"/>  
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" title="postgres"/>  
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" title="mongodb"/>  
       </td>
        <td align="center">
         <img src="https://skillicons.dev/icons?i=figma" width="40" title="Figma"/>  
